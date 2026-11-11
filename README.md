@@ -32,8 +32,11 @@
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Whanidcha-Leamkanka&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whanidcha-Leamkanka&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=whanidcha-leamkanka&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150" />
+  <br/><br/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=whanidcha-leamkanka&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <br/><br/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=whanidcha-leamkanka&layout=compact&theme=tokyonight&hide_border=true" height="165" /
 </div>
 
 ---
